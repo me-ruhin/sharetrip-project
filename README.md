@@ -1,5 +1,8 @@
-# Laravel Documentation
+# Project Documentation
 
+##Environemnt
+>>Laravel Version:8X
+>>PHP Version: 7.4X
 
 ## Installation
 
