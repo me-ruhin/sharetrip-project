@@ -11,7 +11,11 @@ You may use composer to install this package into your Laravel project:
 composer update or composer install
 ```
 
+## Generate Application Key
 
+```bash
+php artisan key:generate
+```
 
 ## Database Migration
 
