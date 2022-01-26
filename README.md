@@ -27,7 +27,7 @@ php artisan migrate
 ```bash
 php artisan db:seed 
 ```
-## Credentials Seeding
+## Credentials 
 
 ```bash
 Email:admin@gmial.com
